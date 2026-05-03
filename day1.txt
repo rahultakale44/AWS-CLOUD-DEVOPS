@@ -1,0 +1,234 @@
+1️⃣ How Internet Works 🌐
+
+The Internet is a global network connecting millions of computers and servers worldwide.
+
+When you open a website:
+
+You type website name (example: google.com)
+Browser asks DNS for IP address
+Browser connects to server using IP
+Server sends website data
+Browser displays website
+Important Terms:
+IP Address = Unique address of machine (like home address)
+DNS = Converts domain name to IP
+HTTP/HTTPS = Communication protocol for websites
+Router = Sends data between networks
+Example:
+
+You type amazon.in
+
+DNS converts it into IP like:
+
+52.x.x.x
+
+Then browser opens Amazon server.
+
+
+
+2️⃣ What is Server? 🖥️
+
+A Server is a computer that provides services/data to users or other computers.
+
+It runs 24/7 and handles requests.
+
+Examples:
+Web server → hosts websites
+Database server → stores data
+File server → stores files
+Mail server → handles emails
+Example:
+
+When you open Instagram:
+
+Your phone = Client
+Instagram machine = Server
+
+
+
+
+3️⃣ Web Server vs Application Server ⚔️
+Web Server
+
+Handles:
+
+Static files
+HTML
+CSS
+Images
+Basic requests
+
+Examples:
+
+Nginx
+Apache HTTP Server
+Application Server
+
+Handles:
+
+Business logic
+Login system
+Calculations
+API processing
+Dynamic content
+
+Examples:
+
+Apache Tomcat
+Node.js
+Spring Boot
+Real Example:
+
+When user opens shopping site:
+
+Web server gives webpage
+App server checks login, products, cart
+
+
+
+
+4️⃣ Types of Applications 📱💻🌐
+1. Standalone Application
+
+Runs on one computer only.
+
+Examples:
+
+Calculator
+Notepad
+VLC
+2. Web Application
+
+Runs in browser through internet.
+
+Examples:
+
+Gmail
+Instagram Web
+Amazon
+3. Mobile Application
+
+Runs on mobile.
+
+Examples:
+
+WhatsApp
+Uber
+Swiggy
+4. Desktop Application
+
+Installed software for PC.
+
+Examples:
+
+Photoshop
+VS Code
+
+
+5️⃣ What are Standalone Apps? 💻
+
+Applications that work independently on your system without needing internet/server.
+
+Features:
+Installed locally
+Uses local storage
+Runs offline
+Examples:
+Paint
+Calculator
+MS Word (offline mode)
+
+
+
+6️⃣ What are Web Applications? 🌐
+
+Software that runs inside browser.
+
+No installation needed.
+
+Features:
+Access from anywhere
+Needs internet
+Data stored on servers
+Examples:
+Facebook
+LinkedIn
+ChatGPT
+YouTube
+Architecture:
+
+User Browser → Internet → Server → Database
+
+
+
+7️⃣ What is Application Support? 🛠️
+
+Application support means helping users and systems run smoothly after software is deployed.
+
+Responsibilities:
+Fix user issues
+Monitor app health
+Restart services
+Password reset
+Log checking
+Ticket solving
+Example:
+
+User says:
+
+Login not working
+
+Support team checks server/logs/database.
+
+Placement Role:
+
+L1 Support / Production Support / Application Support Engineer
+
+
+
+
+8️⃣ What is Application Maintenance? 🔧
+
+Keeping software updated, secure, and working properly.
+
+Includes:
+Bug fixes
+Feature updates
+Security patches
+Performance improvement
+Database cleanup
+Example:
+
+Instagram adds new feature → maintenance/update
+
+🎯 Interview Summary Answers
+What is server?
+
+A server is a machine that provides services/data to clients over network.
+
+Difference between web server and app server?
+
+Web server serves static content, app server handles business logic.
+
+Standalone vs Web App?
+
+Standalone runs locally; web app runs through browser/server.
+
+☁️ Why Important for AWS?
+
+Because AWS gives cloud servers like:
+
+Amazon EC2 = Server
+Amazon S3 = Storage
+Load Balancer = Routes traffic
+DNS = Amazon Route 53
+🔥 Rahul Notes Shortcut (1 Page Revision)
+Internet = Network of networks
+Server = Provides services
+Client = Requests service
+Web Server = Static content
+App Server = Logic/API
+Standalone App = Local system app
+Web App = Browser based app
+Support = Solve live issues
+Maintenance = Improve/update software
