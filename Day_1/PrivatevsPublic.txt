@@ -1,0 +1,47 @@
+Difference Between Public Cloud and Private Cloud
+
+Cloud computing is a way of providing IT infrastructure to customers, it is not just a set of products to be implemented. For any service to be a cloud service, the following five criteria need to be fulfilled as follows:
+
+On-demand self-service: Decision of starting and stopping service depends on customers without direct interaction with providers.
+Broad Network Access: Service must be available to any device using any network.
+Resource Pooling: Provider creates a pool of resources and dynamically allocates them to customers.
+Rapid Elasticity: The services provided by the provider must be easily expandable and quick.
+Measured Services: Provider must measure the usage of service and charge it accordingly. Tracking usage is also helpful in improving services.
+1. Public Cloud: 
+Computing in which service provider makes all resources public over the internet. It is connected to the public Internet. Service provider serves resources such as virtual machines, applications, storage, etc to the general public over the internet. It may be free of cost or with minimal pay-per-usage. It is available for public display, Google uses the cloud to run some of its applications like google docs, google drive or YouTube, etc. 
+It is the most common way of implementing cloud computing. The external cloud service provider owns, operates, and delivers it over the public network. 
+It is best for the companies which need an infrastructure to accommodate a large number of customers and work on projects which have diverse organizations i.e. research institutions and NGOs etc. 
+ 
+
+Public Cloud Advantages:
+
+Scalability: Public cloud services are designed to be scalable, which means you can easily add or remove resources as needed.
+Cost-Effective: Public cloud providers typically offer a pay-as-you-go model, which allows you to only pay for the resources you use, making it cost-effective.
+Accessibility: Public cloud services are accessible from anywhere with an internet connection, which makes it easy to access data and applications from anywhere in the world.
+Reliability: Public cloud providers usually have multiple data centers across different locations, which ensures high availability and reliability.
+
+Public Cloud Disadvantages:
+
+Security: Since public cloud services are available to anyone with an internet connection, there is a risk of unauthorized access or data breaches.
+Control: Public cloud providers have control over the infrastructure and services, which means you have limited control over how your data is stored and managed.
+Compliance: Compliance requirements can be a challenge for public cloud users since they have to comply with the regulations and standards that apply to the cloud provider.
+
+
+2. Private Cloud: 
+Computing in which service provider does not makes all resources public over the internet. It only supports connectivity over the private network. It has only authentic users and single-occupant architecture. Google back-end data of the applications like Google Drive, Google docs, YouTube, etc are not available to the public, these types of data and applications run on a private cloud. 
+The infrastructure and services are maintained and deployed over a private network; hardware and software are dedicated only to a private company i.e. members of the special entity. 
+
+It is best for the companies which need an infrastructure that has high performance, high security, and privacy due to its best adaptability and flexibility. 
+
+Private Cloud Advantages:
+
+Control: Private cloud users have full control over the infrastructure and services, which means they can customize the environment to their specific needs.
+Security: Private cloud services are typically more secure since they are only accessible to authorized users.
+Compliance: Private cloud users have more control over compliance requirements since they can customize the environment to meet specific regulatory requirements.
+Customization: Private cloud users can customize the environment to their specific needs, which means they can optimize performance and efficiency.
+
+Private Cloud Disadvantages:
+
+Cost: Private cloud services can be more expensive than public cloud services since they require a dedicated infrastructure.
+Maintenance: Private cloud users are responsible for maintaining and updating the infrastructure, which can be time-consuming and costly.
+Scalability: Private cloud services can be less scalable than public cloud services, which means they may not be able to handle sudden spikes in demand.

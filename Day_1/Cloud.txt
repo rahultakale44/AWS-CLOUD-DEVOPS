@@ -1,0 +1,18 @@
+Cloud computing has transformed how organizations build, deploy, and scale technology. Instead of owning physical infrastructure, users access computing resources over the internet on demand.
+
+Eliminates the need for physical servers and upfront hardware costs.
+Enables on-demand access to computing power and storage.
+Supports scalability, flexibility, and cost efficiency.
+Problem That Cloud Computing Solves
+Before the cloud, if a company wanted to launch a website or an application, it had to follow a slow and expensive process:
+
+The Old Way (On-Premises)
+Companies had to purchase physical servers, storage devices, and networking equipment.
+This required a large upfront investment known as Capital Expenditure (CapEx).
+Peak usage had to be estimated in advance, often leading to overprovisioning and wasted resources.
+Procuring and setting up new servers could take weeks or even months.
+The New Way (Cloud Computing)
+Hardware is no longer purchased; computing resources are rented from cloud providers such as AWS, Google, or Microsoft.
+Costs shift from a large upfront investment to a pay as you go Operational Expenditure model.
+Resources can be provisioned instantly without long waiting periods.
+Eliminates overprovisioning, guesswork, and resource wastage.
